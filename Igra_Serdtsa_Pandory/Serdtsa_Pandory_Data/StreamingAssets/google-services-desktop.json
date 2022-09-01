@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504814476879",
+    "project_id": "my-project-ac446",
+    "storage_bucket": "my-project-ac446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504814476879:android:de3f2d4d704d2d8810943a",
+        "android_client_info": {
+          "package_name": "com.Arina.Myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504814476879-uq1qig682nrj3533tde6d2p1fbf97jeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHRKOgUcsBU1ZB4DEOJZO4X7P2gxLcTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504814476879-uq1qig682nrj3533tde6d2p1fbf97jeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
